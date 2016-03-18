@@ -16,9 +16,9 @@ shodan_object = shodan.Shodan(SHODAN_API_KEY)
 
 ## Prints title, version, contact info, etc.
 def banner():
-    title = "My_App.py"
+    title = "Shodan_Sarch.py"
     version = "Version 1.0"
-    contact = "me@me.com"
+    contact = "notify.mynews@gmail.com"
     print ("-" * 45)
     print (title.center(45))
     print (version.center(45))
